@@ -16,6 +16,8 @@ body {
     width: 1px;
     height: 1px;
     overflow: hidden;
+    background-color: red;
+    color: black;
 }
 #skiplink a:focus {
     position: static;
@@ -64,7 +66,7 @@ header a {
     text-decoration: none;
 }
 
-* p {
+p {
     font-size: 16px;
 }
 /* end of header and nav style */
