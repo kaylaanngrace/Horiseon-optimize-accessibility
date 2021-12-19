@@ -1,4 +1,5 @@
-Horiseon-Optimize-Accessibility
+Horiseon-Optimize-Accessibility: 
+https://kaylaanngrace.github.io/Horiseon-optimize-accessibility/
 
 DESCRIPTION:
 My motive for this project is to become more efficent in web development/coding. 
@@ -15,14 +16,24 @@ The first step I took in refactoring this code, was interesting comments to visu
 
 USAGE: 
 At the top of the page there is a hidden skiplink that allows you to skip to the main content of the page. If you press tab, the link will appear, if you press enter it will bring you to the main content of the page.
+![Skip To Main Content Link](assets/images/Horiseon-SEO.png)
 
 CREDITS:
-Skip link https://webaim.org/techniques/skipnav/#creating
 
-Semantic elemenets https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+Skip link: https://webaim.org/techniques/skipnav/#creating
 
-Professional README Guide https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+Semantic elemenets: https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+
+Professional README Guide: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 LICENSE:
 
 FEATURES: 
+
+-SkipNav to skip to main content
+
+-Alt attributes for images
+
+-Semantic elements for all regions of page
+
+
