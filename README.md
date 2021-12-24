@@ -1,4 +1,5 @@
-# Horiseon-Optimize-Accessibility: https://kaylaanngrace.github.io/Horiseon-optimize-accessibility/
+# Horiseon-Optimize-Accessibility: 
+https://kaylaanngrace.github.io/Horiseon-optimize-accessibility/
 
 ## DESCRIPTION:
 My motive for this project is to become more efficent in web development/coding. 
